@@ -1,0 +1,43 @@
+Homework Checkoff List CSC110  
+Name: Mike Vo		    		
+Section: HY02
+Homework: HW02	
+
+Program requirements:
+    
+ > A program that determines the cost of 3 items shipped with tax
+    
+ > User input (for each of those 3 items)
+     > Description
+     > Price
+     > Quantity
+     > Weight per item
+     
+ > Output:
+     > Item purchased
+     > Sub-total
+     > Shipping + Handling costs
+     > Tax
+     > Total
+
+ > Output example:
+     You have purchased: Shovel Planter Broom
+     The subtotal is $152.00
+     The Shipping and Handling costs are $14.50
+     The Tax is $13.68 
+     The Total is $180.18
+     
+ > Shipping $.25/lb
+ > Handling $5/order
+ > Tax Rate 9% of Sub-total
+ 
+ > Develop test data and put into in-source comments 
+ > Test data example:
+     # Shovel $25.00 2 each 6lbs
+     # Planter $45.00 2 each 11lbs
+     # Broom $12.00 1 each 4lbs
+     # Subtotal is $152.00, Shipping & Handling is $14.50,
+        Tax is $13.68 and the Total is $180.18
+
+ > Do NOT create 12 variables to capture the input!
+ > Efficiency is vital!

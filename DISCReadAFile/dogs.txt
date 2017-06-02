@@ -1,0 +1,5 @@
+Boxers 700
+Beagles 400
+Bulldogs 200
+Rottweilers 100
+Poodles 800

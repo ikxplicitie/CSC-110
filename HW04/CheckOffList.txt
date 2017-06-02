@@ -1,0 +1,31 @@
+Homework Checkoff List CSC110  
+Name: Mike Vo	    		
+Section: HY02
+Homework: HW04
+
+List the requirements of the program
+
+    Create a graphic dice program:
+
+> User throw 5 dices
+    > By clicking on the dice's respective outline area
+    > Generate a random dice value in [1, 6]
+    > Render generated random value side of the dice
+    > Add dice value to a total and display
+
+> Can assume dice thrown in order from left to right
+
+> After all the dice have been clicked/thrown: display congratulations below the dice total
+
+> If user interact with non-dice or non-button, give no respond
+
+> Technical:
+    > Use a function that is called with every dice click/throw
+    > Use a function that generate random integer from 1 to 6
+    > Draws dice in the appropriate outlined area
+    > Does not allow second click on a dice
+    > Have an exit button for the user to quit
+
+> Added features:
+    > A reset button for user to clear all the dice and replay
+    > Dice can be clicked/thrown in any order

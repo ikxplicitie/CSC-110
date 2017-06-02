@@ -1,0 +1,12 @@
+Homework Check-off List CSC110
+Name: Mike Vo
+Section: HY02
+Homework: HW01
+
+Program requirements:
+    > MainA(): Create a program that determines the MPH (Miles Per Hour) someone is traveling on a bike.
+        > Gather the distance (in miles) and the time (in minutes)
+        > Display the MPH (Miles Per Hour) they are traveling.
+        > Example: If Bob has traveled 8.5 miles and it took him 30 minutes he would traveling 17 Miles per Hour.
+    > MainB(): Create a program that allows a user to enter 2 numbers.
+        > Print out (to the shell) both numbers 6 times.

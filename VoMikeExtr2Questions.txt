@@ -1,0 +1,73 @@
+Question 1: Given the following code:
+
+for i in [5, 7, 2, 6]:
+    i += i
+    print(i)
+print(i*i)
+
+What will be the result of this code?
+
+A.
+5
+7
+2
+6
+6
+
+B.
+6
+8
+3
+7
+42
+
+C.
+10
+14
+4
+12
+144
+
+D.
+10
+14
+4
+12
+12
+
+E.
+Error
+
+Question 2: What is the output of the following code when user enter 10
+
+a = int(input("Enter a number: ") / 100)
+for i in range(4):
+    i = i * a
+    print({0:0.2f}.format(i))
+
+A.
+1
+2
+3
+4
+
+B.
+0
+1
+2
+3
+
+C.
+0.0
+0.1
+0.2
+0.3
+
+D.
+0.1
+0.2
+0.3
+0.4
+
+E.
+Error

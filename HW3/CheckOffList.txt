@@ -1,0 +1,39 @@
+Homework Checkoff List CSC110  
+Name: Mike Vo	    		
+Section: HY02
+Homework: HW03
+
+List the requirements of the program						
+ Determines the cost of sending out coffee for Konditorei coffee shop
+ > Coffee type - cost (user will choose 1 only)
+	> Jonestown Brew - $10.50/lb
+	> Plymouth Jolt - $16.95/lb
+ > Shipping cost: $0.93/lb
+ > Handling cost (constant): $2.50/order
+ > Receive City and State input from user, and find tax rate for that State:
+	> 9% - Washington, California, Texas
+	> 0% - Oregon, Florida
+	> 7% - All others
+ > Determine 1 delivery method from user, and determine the delivery cost:
+	> Overnight - $20.00
+	> 2-Day- $13.00
+	> Standard - $0.00
+ > Determine 1 payment method from user, and  determine the fee/discount for that method:
+	> PayPal - 3% fee of Sub-total
+	> Credit card - 5% fee of Sub-total
+	> Check - 2% discount of Sub-total
+ > Output (Format in US currency where appropriate):
+	> Sub-total: price * quantity
+	> Shipping & Handling costs
+	> Delivery cost
+	> City and State being shipped to
+	> Delivery method
+	> Payment type
+	> Tax
+	> Total
+ > Technical details:
+	> Use functions
+		> One function to determine Shipping & Handling costs
+		> One function to determine Tax
+		> One function to determine  Sub-total
+	> Use Try Except block to catch the program from blowing up
